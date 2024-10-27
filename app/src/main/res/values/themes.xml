@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- AppCompat tabanlı tema tanımı -->
+    <style name="Theme.SehirPlakaKodu" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Burada eklemek istediğiniz özelleştirmeleri yapabilirsiniz -->
+    </style>
+
+</resources>
